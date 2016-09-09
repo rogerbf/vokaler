@@ -1,0 +1,25 @@
+{
+  "name": "vokaler",
+  "version": "0.0.1",
+  "description": "swedish vowels",
+  "main": "./src/index.js",
+  "scripts": {},
+  "keywords": ["language", "vowel", "swedish"],
+  "author": "rogerbf <roger@bergfalk.nu> (http://bergfalk.nu/)",
+  "license": "MIT",
+  "devDependencies": {},
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "eslintConfig": {
+    "env": {
+      "node": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 6,
+      "sourceType": "module"
+    }
+  },
+  "dependencies": {}
+}
