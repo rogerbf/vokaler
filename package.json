@@ -4,7 +4,11 @@
   "description": "swedish vowels",
   "main": "./src/index.js",
   "scripts": {},
-  "keywords": ["language", "vowel", "swedish"],
+  "keywords": [
+    "language",
+    "vowel",
+    "swedish"
+  ],
   "author": "rogerbf <roger@bergfalk.nu> (http://bergfalk.nu/)",
   "license": "MIT",
   "devDependencies": {},
@@ -21,5 +25,13 @@
       "sourceType": "module"
     }
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogerbf/vokaler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rogerbf/vokaler/issues"
+  },
+  "homepage": "https://github.com/rogerbf/vokaler#readme"
 }
